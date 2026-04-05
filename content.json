@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "images": [
     {
       "id": "krishna1",
@@ -30,40 +30,185 @@
       "id": "vinayaka1",
       "godName": "Ganesha",
       "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_auto,q_auto,w_800/vinayaka_m1yync"
+    },
+    {
+      "id": "nw3vab8wggfciujbmg7w",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_auto,q_auto,w_800/telugu-bhakti/nw3vab8wggfciujbmg7w"
+    },
+    {
+      "id": "dzogiiaeaadge8dx3fhe",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_auto,q_auto,w_800/telugu-bhakti/dzogiiaeaadge8dx3fhe"
+    },
+    {
+      "id": "upi4uo9cnnatvxpxpwh5",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_auto,q_auto,w_800/telugu-bhakti/upi4uo9cnnatvxpxpwh5"
     }
   ],
   "quotes": [
-    { "id": "krishna_q1", "text": "భక్తి ఉన్న చోటే భగవంతుడు ఉంటాడు 🙏",            "godName": "Krishna" },
-    { "id": "krishna_q2", "text": "కృష్ణుని స్మరణతో మనసు శాంతిస్తుంది 🙏",         "godName": "Krishna" },
-    { "id": "krishna_q3", "text": "హరే కృష్ణ హరే రామ 🙏",                           "godName": "Krishna" },
-    { "id": "krishna_q4", "text": "కర్మ చేయి, ఫలితం దేవునికి వదిలు 🙏",             "godName": "Krishna" },
-    { "id": "krishna_q5", "text": "గోవిందా గోవిందా శ్రీ కృష్ణ గోవిందా 🙏",          "godName": "Krishna" },
-    { "id": "shiva_q1",   "text": "ఓం నమః శివాయ 🙏",                               "godName": "Shiva"   },
-    { "id": "shiva_q2",   "text": "శివుని కృపతో అన్ని కష్టాలు తొలగిపోతాయి 🙏",     "godName": "Shiva"   },
-    { "id": "shiva_q3",   "text": "మహాదేవుని ధ్యానంతో మోక్షం లభిస్తుంది 🙏",       "godName": "Shiva"   },
-    { "id": "shiva_q4",   "text": "శంభో శంకర దేవాది దేవ 🙏",                        "godName": "Shiva"   },
-    { "id": "shiva_q5",   "text": "హర హర మహాదేవ శంభో శంకర 🙏",                      "godName": "Shiva"   },
-    { "id": "ganesha_q1", "text": "గణపతి బప్పా మోరియా 🙏",                          "godName": "Ganesha" },
-    { "id": "ganesha_q2", "text": "వినాయకుని పూజతో అడ్డంకులు తొలగిపోతాయి 🙏",      "godName": "Ganesha" },
-    { "id": "ganesha_q3", "text": "గణేష స్మరణతో ప్రతి పని విజయవంతమవుతుంది 🙏",     "godName": "Ganesha" },
-    { "id": "ganesha_q4", "text": "శ్రీ గణేశాయ నమః 🙏",                              "godName": "Ganesha" },
-    { "id": "ganesha_q5", "text": "విఘ్నేశ్వరుని అనుగ్రహంతో జీవితం సుఖమవుతుంది 🙏", "godName": "Ganesha" },
-    { "id": "lakshmi_q1", "text": "లక్ష్మీ దేవి కృపతో సంపద వస్తుంది 🙏",            "godName": "Lakshmi" },
-    { "id": "lakshmi_q2", "text": "శ్రీ మహాలక్ష్మ్యై నమః 🙏",                       "godName": "Lakshmi" },
-    { "id": "lakshmi_q3", "text": "అమ్మ లక్ష్మి అనుగ్రహంతో ఇల్లు వెలుగుతుంది 🙏",  "godName": "Lakshmi" },
-    { "id": "lakshmi_q4", "text": "లక్ష్మీ కటాక్షంతో దారిద్ర్యం తొలగిపోతుంది 🙏",  "godName": "Lakshmi" },
-    { "id": "lakshmi_q5", "text": "జయ జయ లక్ష్మి అమ్మా 🙏",                         "godName": "Lakshmi" },
-    { "id": "murugan_q1", "text": "శరవణభవ 🙏",                                       "godName": "Murugan" },
-    { "id": "murugan_q2", "text": "మురుగన్ అనుగ్రహంతో జీవితం సుఖమవుతుంది 🙏",      "godName": "Murugan" },
-    { "id": "murugan_q3", "text": "శ్రీ సుబ్రహ్మణ్యేశ్వరుని జయం 🙏",                "godName": "Murugan" },
-    { "id": "murugan_q4", "text": "స్కందుని కృపతో అన్ని కష్టాలు తొలగిపోతాయి 🙏",   "godName": "Murugan" },
-    { "id": "murugan_q5", "text": "వేల్ మురుగా వెట్రి వేల్ 🙏",                      "godName": "Murugan" }
+    {
+      "id": "krishna_q1",
+      "text": "భక్తి ఉన్న చోటే భగవంతుడు ఉంటాడు 🙏",
+      "godName": "Krishna"
+    },
+    {
+      "id": "krishna_q2",
+      "text": "కృష్ణుని స్మరణతో మనసు శాంతిస్తుంది 🙏",
+      "godName": "Krishna"
+    },
+    {
+      "id": "krishna_q3",
+      "text": "హరే కృష్ణ హరే రామ 🙏",
+      "godName": "Krishna"
+    },
+    {
+      "id": "krishna_q4",
+      "text": "కర్మ చేయి, ఫలితం దేవునికి వదిలు 🙏",
+      "godName": "Krishna"
+    },
+    {
+      "id": "krishna_q5",
+      "text": "గోవిందా గోవిందా శ్రీ కృష్ణ గోవిందా 🙏",
+      "godName": "Krishna"
+    },
+    {
+      "id": "shiva_q1",
+      "text": "ఓం నమః శివాయ 🙏",
+      "godName": "Shiva"
+    },
+    {
+      "id": "shiva_q2",
+      "text": "శివుని కృపతో అన్ని కష్టాలు తొలగిపోతాయి 🙏",
+      "godName": "Shiva"
+    },
+    {
+      "id": "shiva_q3",
+      "text": "మహాదేవుని ధ్యానంతో మోక్షం లభిస్తుంది 🙏",
+      "godName": "Shiva"
+    },
+    {
+      "id": "shiva_q4",
+      "text": "శంభో శంకర దేవాది దేవ 🙏",
+      "godName": "Shiva"
+    },
+    {
+      "id": "shiva_q5",
+      "text": "హర హర మహాదేవ శంభో శంకర 🙏",
+      "godName": "Shiva"
+    },
+    {
+      "id": "ganesha_q1",
+      "text": "గణపతి బప్పా మోరియా 🙏",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "ganesha_q2",
+      "text": "వినాయకుని పూజతో అడ్డంకులు తొలగిపోతాయి 🙏",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "ganesha_q3",
+      "text": "గణేష స్మరణతో ప్రతి పని విజయవంతమవుతుంది 🙏",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "ganesha_q4",
+      "text": "శ్రీ గణేశాయ నమః 🙏",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "ganesha_q5",
+      "text": "విఘ్నేశ్వరుని అనుగ్రహంతో జీవితం సుఖమవుతుంది 🙏",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "lakshmi_q1",
+      "text": "లక్ష్మీ దేవి కృపతో సంపద వస్తుంది 🙏",
+      "godName": "Lakshmi"
+    },
+    {
+      "id": "lakshmi_q2",
+      "text": "శ్రీ మహాలక్ష్మ్యై నమః 🙏",
+      "godName": "Lakshmi"
+    },
+    {
+      "id": "lakshmi_q3",
+      "text": "అమ్మ లక్ష్మి అనుగ్రహంతో ఇల్లు వెలుగుతుంది 🙏",
+      "godName": "Lakshmi"
+    },
+    {
+      "id": "lakshmi_q4",
+      "text": "లక్ష్మీ కటాక్షంతో దారిద్ర్యం తొలగిపోతుంది 🙏",
+      "godName": "Lakshmi"
+    },
+    {
+      "id": "lakshmi_q5",
+      "text": "జయ జయ లక్ష్మి అమ్మా 🙏",
+      "godName": "Lakshmi"
+    },
+    {
+      "id": "murugan_q1",
+      "text": "శరవణభవ 🙏",
+      "godName": "Murugan"
+    },
+    {
+      "id": "murugan_q2",
+      "text": "మురుగన్ అనుగ్రహంతో జీవితం సుఖమవుతుంది 🙏",
+      "godName": "Murugan"
+    },
+    {
+      "id": "murugan_q3",
+      "text": "శ్రీ సుబ్రహ్మణ్యేశ్వరుని జయం 🙏",
+      "godName": "Murugan"
+    },
+    {
+      "id": "murugan_q4",
+      "text": "స్కందుని కృపతో అన్ని కష్టాలు తొలగిపోతాయి 🙏",
+      "godName": "Murugan"
+    },
+    {
+      "id": "murugan_q5",
+      "text": "వేల్ మురుగా వెట్రి వేల్ 🙏",
+      "godName": "Murugan"
+    },
+    {
+      "id": "hanuman_q1",
+      "text": "అశాంతిగా ఉన్న మనసుకి ఆధ్యాత్మికతే అసలైన ఔషధం",
+      "godName": "hanuman"
+    },
+    {
+      "id": "hanuman_q2",
+      "text": "కర్మ నీ వెంట ఉంటుంది, కానీ భక్తి నిన్ను కాపాడుతుంది.",
+      "godName": "hanuman"
+    }
   ],
   "festivals": [
-    { "mmdd": "08-26", "godName": "Krishna", "label": "జన్మాష్టమి"     },
-    { "mmdd": "02-26", "godName": "Shiva",   "label": "మహాశివరాత్రి"   },
-    { "mmdd": "09-07", "godName": "Ganesha", "label": "వినాయక చవితి"  },
-    { "mmdd": "10-12", "godName": "Lakshmi", "label": "దీపావళి"        },
-    { "mmdd": "04-14", "godName": "Murugan", "label": "హనుమాన్ జయంతి" }
+    {
+      "mmdd": "08-26",
+      "godName": "Krishna",
+      "label": "జన్మాష్టమి"
+    },
+    {
+      "mmdd": "02-26",
+      "godName": "Shiva",
+      "label": "మహాశివరాత్రి"
+    },
+    {
+      "mmdd": "09-07",
+      "godName": "Ganesha",
+      "label": "వినాయక చవితి"
+    },
+    {
+      "mmdd": "10-12",
+      "godName": "Lakshmi",
+      "label": "దీపావళి"
+    },
+    {
+      "mmdd": "04-14",
+      "godName": "Murugan",
+      "label": "హనుమాన్ జయంతి"
+    }
   ]
 }
