@@ -45,24 +45,27 @@
     }
   ],
   "quotes": [
-    { "id": "krishna_q1", "text": "bhakti unna chote bhagavanthudu untaadu", "godName": "Krishna" },
-    { "id": "krishna_q2", "text": "Hare Krishna Hare Rama", "godName": "Krishna" },
-    { "id": "shiva_q1", "text": "Om Namah Shivaya", "godName": "Shiva" },
-    { "id": "shiva_q2", "text": "Har Har Mahadev", "godName": "Shiva" },
-    { "id": "ganesha_q1", "text": "Ganpati Bappa Moriya", "godName": "Ganesha" },
-    { "id": "ganesha_q2", "text": "Sri Ganeshaya Namah", "godName": "Ganesha" },
-    { "id": "hanuman_q1", "text": "Jai Hanuman Gyan Gun Sagar", "godName": "Hanuman" },
-    { "id": "hanuman_q2", "text": "Anjaneyaya Namah", "godName": "Hanuman" },
-    { "id": "lakshmi_q1", "text": "Sri Mahalakshmyai Namah", "godName": "Lakshmi" },
-    { "id": "lakshmi_q2", "text": "Jay Jay Lakshmi Amma", "godName": "Lakshmi" },
-    { "id": "murugan_q1", "text": "Saravanabhava", "godName": "Murugan" },
-    { "id": "murugan_q2", "text": "Sri Subrahmanyeshwaruni Jayam", "godName": "Murugan" }
-  ],
-  "festivals": [
-    { "mmdd": "08-26", "godName": "Krishna", "label": "Janmashtami" },
-    { "mmdd": "02-26", "godName": "Shiva", "label": "Maha Shivaratri" },
-    { "mmdd": "09-07", "godName": "Ganesha", "label": "Vinayaka Chavithi" },
-    { "mmdd": "10-12", "godName": "Lakshmi", "label": "Diwali" },
-    { "mmdd": "04-14", "godName": "Murugan", "label": "Hanuman Jayanti" }
-  ]
+  { "id": "krishna_q1", "text": "భక్తి ఉన్న చోటే భగవంతుడు ఉంటాడు 🙏", "godName": "Krishna" },
+  { "id": "krishna_q2", "text": "హరే కృష్ణ హరే రామ 🙏", "godName": "Krishna" },
+  { "id": "krishna_q3", "text": "గోవిందా గోవిందా శ్రీ కృష్ణ గోవిందా 🙏", "godName": "Krishna" },
+  { "id": "shiva_q1", "text": "ఓం నమః శివాయ 🙏", "godName": "Shiva" },
+  { "id": "shiva_q2", "text": "హర హర మహాదేవ 🙏", "godName": "Shiva" },
+  { "id": "shiva_q3", "text": "శంభో శంకర దేవాది దేవ 🙏", "godName": "Shiva" },
+  { "id": "ganesha_q1", "text": "గణపతి బప్పా మోరియా 🙏", "godName": "Ganesha" },
+  { "id": "ganesha_q2", "text": "శ్రీ గణేశాయ నమః 🙏", "godName": "Ganesha" },
+  { "id": "ganesha_q3", "text": "విఘ్నేశ్వరుని అనుగ్రహంతో జీవితం సుఖమవుతుంది 🙏", "godName": "Ganesha" },
+  { "id": "hanuman_q1", "text": "జై హనుమాన్ జ్ఞాన గుణ సాగర 🙏", "godName": "Hanuman" },
+  { "id": "hanuman_q2", "text": "ఆంజనేయాయ నమః 🙏", "godName": "Hanuman" },
+  { "id": "lakshmi_q1", "text": "శ్రీ మహాలక్ష్మ్యై నమః 🙏", "godName": "Lakshmi" },
+  { "id": "lakshmi_q2", "text": "జయ జయ లక్ష్మి అమ్మా 🙏", "godName": "Lakshmi" },
+  { "id": "murugan_q1", "text": "శరవణభవ 🙏", "godName": "Murugan" },
+  { "id": "murugan_q2", "text": "శ్రీ సుబ్రహ్మణ్యేశ్వరుని జయం 🙏", "godName": "Murugan" }
+],
+"festivals": [
+  { "mmdd": "08-26", "godName": "Krishna", "label": "జన్మాష్టమి" },
+  { "mmdd": "02-26", "godName": "Shiva", "label": "మహాశివరాత్రి" },
+  { "mmdd": "09-07", "godName": "Ganesha", "label": "వినాయక చవితి" },
+  { "mmdd": "10-12", "godName": "Lakshmi", "label": "దీపావళి" },
+  { "mmdd": "04-14", "godName": "Murugan", "label": "హనుమాన్ జయంతి" }
+]
 }
