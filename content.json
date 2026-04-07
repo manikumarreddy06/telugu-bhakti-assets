@@ -1,63 +1,68 @@
-"images": [
+{
   "version": 10,
-  {
-    "id": "krishna1",
-    "godName": "Krishna",
-    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/krishna.jpg",
-    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/krishna_chzkxg"
-  },
-  {
-    "id": "shiva1",
-    "godName": "Shiva",
-    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/shiva.jpg",
-    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/shiva_tgflsk"
-  },
-  {
-    "id": "ganesha1",
-    "godName": "Ganesha",
-    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/ganesha.jpg",
-    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/vinayaka_m1yync"
-  },
-  {
-    "id": "hanuman1",
-    "godName": "Hanuman",
-    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/hanuman.jpg",
-    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/krishna_chzkxg"
-  },
-  {
-    "id": "lakshmi1",
-    "godName": "Lakshmi",
-    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/lakshmi.jpg",
-    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/lakshmi_bj45wl"
-  },
-  {
-    "id": "murugan1",
-    "godName": "Murugan",
-    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/murugan.png",
-    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/murugan_ceaut4"
-  },
-  {
-    "id": "vinayaka1",
-    "godName": "Ganesha",
-    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/vinayaka.jpg",
-    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/vinayaka_m1yync"
-  }
-],
-
+  "images": [
+    {
+      "id": "krishna1",
+      "godName": "Krishna",
+      "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/krishna.jpg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/krishna_chzkxg"
+    },
+    {
+      "id": "shiva1",
+      "godName": "Shiva",
+      "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/shiva.jpg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/shiva_tgflsk"
+    },
+    {
+      "id": "ganesha1",
+      "godName": "Ganesha",
+      "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/ganesha.jpg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/vinayaka_m1yync"
+    },
+    {
+      "id": "hanuman1",
+      "godName": "Hanuman",
+      "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/hanuman.jpg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/krishna_chzkxg"
+    },
+    {
+      "id": "lakshmi1",
+      "godName": "Lakshmi",
+      "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/lakshmi.jpg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/lakshmi_bj45wl"
+    },
+    {
+      "id": "murugan1",
+      "godName": "Murugan",
+      "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/murugan.png",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/murugan_ceaut4"
+    },
+    {
+      "id": "vinayaka1",
+      "godName": "Ganesha",
+      "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/vinayaka.jpg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/vinayaka_m1yync"
+    }
   ],
   "quotes": [
     { "id": "krishna_q1", "text": "భక్తి ఉన్న చోటే భగవంతుడు ఉంటాడు 🙏", "godName": "Krishna" },
+    { "id": "krishna_q2", "text": "కృష్ణుని స్మరణతో మనసు శాంతిస్తుంది 🙏", "godName": "Krishna" },
+    { "id": "krishna_q3", "text": "హరే కృష్ణ హరే రామ 🙏", "godName": "Krishna" },
     { "id": "shiva_q1", "text": "ఓం నమః శివాయ 🙏", "godName": "Shiva" },
+    { "id": "shiva_q2", "text": "శివుని కృపతో అన్ని కష్టాలు తొలగిపోతాయి 🙏", "godName": "Shiva" },
+    { "id": "shiva_q3", "text": "హర హర మహాదేవ శంభో శంకర 🙏", "godName": "Shiva" },
     { "id": "ganesha_q1", "text": "గణపతి బప్పా మోరియా 🙏", "godName": "Ganesha" },
+    { "id": "ganesha_q2", "text": "వినాయకుని పూజతో అడ్డంకులు తొలగిపోతాయి 🙏", "godName": "Ganesha" },
+    { "id": "ganesha_q3", "text": "శ్రీ గణేశాయ నమః 🙏", "godName": "Ganesha" },
     { "id": "lakshmi_q1", "text": "లక్ష్మీ దేవి కృపతో సంపద వస్తుంది 🙏", "godName": "Lakshmi" },
+    { "id": "lakshmi_q2", "text": "శ్రీ మహాలక్ష్మ్యై నమః 🙏", "godName": "Lakshmi" },
+    { "id": "lakshmi_q3", "text": "జయ జయ లక్ష్మి అమ్మా 🙏", "godName": "Lakshmi" },
     { "id": "murugan_q1", "text": "శరవణభవ 🙏", "godName": "Murugan" },
-    { "id": "hanuman_q1", "text": "అశాంతిగా ఉన్న మనసుకి ఆధ్యాత్మికతే అసలైన ఔషధం", "godName": "Hanuman" }
+    { "id": "murugan_q2", "text": "మురుగన్ అనుగ్రహంతో జీవితం సుఖమవుతుంది 🙏", "godName": "Murugan" },
+    { "id": "murugan_q3", "text": "శ్రీ సుబ్రహ్మణ్యేశ్వరుని జయం 🙏", "godName": "Murugan" },
+    { "id": "hanuman_q1", "text": "జై హనుమాన్ జ్ఞాన గుణ సాగర 🙏", "godName": "Hanuman" },
+    { "id": "hanuman_q2", "text": "ఆంజనేయాయ నమః 🙏", "godName": "Hanuman" },
+    { "id": "hanuman_q3", "text": "రాముని భక్తుడైన హనుమాన్ సదా రక్షిస్తాడు 🙏", "godName": "Hanuman" }
   ],
   "festivals": [
-    { "mmdd": "0826", "godName": "Krishna", "label": "జన్మాష్టమి" },
-    { "mmdd": "0226", "godName": "Shiva", "label": "మహాశివరాత్రి" },
-    { "mmdd": "0907", "godName": "Ganesha", "label": "వినాయక చవితి" },
-    { "mmdd": "1012", "godName": "Lakshmi", "label": "దీపావళి" },
-    { "mmdd": "0414", "godName": "Murugan", "label": "హనుమాన్ జయంతి" }
-  ]
-}
+    { "mmdd": "08-26", "godNa
