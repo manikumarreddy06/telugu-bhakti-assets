@@ -1,42 +1,49 @@
-{
-  "version": 8,
-  "images": [
-    {
-      "id": "krishna1",
-      "godName": "Krishna",
-      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/krishna_chzkxg",
-      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/krishna_chzkxg"
-    },
-    {
-      "id": "shiva1",
-      "godName": "Shiva",
-      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/shiva_tgflsk",
-      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/shiva_tgflsk"
-    },
-    {
-      "id": "lakshmi1",
-      "godName": "Lakshmi",
-      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/lakshmi_bj45wl",
-      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/lakshmi_bj45wl"
-    },
-    {
-      "id": "lakshmi2",
-      "godName": "Lakshmi",
-      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/lakshmi_cxiyye",
-      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/lakshmi_cxiyye"
-    },
-    {
-      "id": "murugan1",
-      "godName": "Murugan",
-      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/murugan_ceaut4",
-      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/murugan_ceaut4"
-    },
-    {
-      "id": "vinayaka1",
-      "godName": "Ganesha",
-      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/vinayaka_m1yync",
-      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/vinayaka_m1yync"
-    }
+"images": [
+  "version": 10,
+  {
+    "id": "krishna1",
+    "godName": "Krishna",
+    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/krishna.jpg",
+    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/krishna_chzkxg"
+  },
+  {
+    "id": "shiva1",
+    "godName": "Shiva",
+    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/shiva.jpg",
+    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/shiva_tgflsk"
+  },
+  {
+    "id": "ganesha1",
+    "godName": "Ganesha",
+    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/ganesha.jpg",
+    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/vinayaka_m1yync"
+  },
+  {
+    "id": "hanuman1",
+    "godName": "Hanuman",
+    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/hanuman.jpg",
+    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/krishna_chzkxg"
+  },
+  {
+    "id": "lakshmi1",
+    "godName": "Lakshmi",
+    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/lakshmi.jpg",
+    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/lakshmi_bj45wl"
+  },
+  {
+    "id": "murugan1",
+    "godName": "Murugan",
+    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/murugan.png",
+    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/murugan_ceaut4"
+  },
+  {
+    "id": "vinayaka1",
+    "godName": "Ganesha",
+    "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/vinayaka.jpg",
+    "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/vinayaka_m1yync"
+  }
+],
+
   ],
   "quotes": [
     { "id": "krishna_q1", "text": "భక్తి ఉన్న చోటే భగవంతుడు ఉంటాడు 🙏", "godName": "Krishna" },
