@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "images": [
     {
       "id": "krishna1",
@@ -198,6 +198,24 @@
       "godName": "Krishna",
       "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/alcnsywjffrhm2e177cx",
       "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/alcnsywjffrhm2e177cx"
+    },
+    {
+      "id": "bihtgh7mrch6oy8l6ouv",
+      "godName": "Murugan",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/bihtgh7mrch6oy8l6ouv",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/bihtgh7mrch6oy8l6ouv"
+    },
+    {
+      "id": "wwdkdbzanosqe7dtxnzf",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/wwdkdbzanosqe7dtxnzf",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/wwdkdbzanosqe7dtxnzf"
+    },
+    {
+      "id": "oj7bdlyb545xdw1f3fym",
+      "godName": "Venkateshwara",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/oj7bdlyb545xdw1f3fym",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/oj7bdlyb545xdw1f3fym"
     }
   ],
   "quotes": [
