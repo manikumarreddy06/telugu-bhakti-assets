@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 16,
   "images": [
     {
       "id": "krishna1",
@@ -102,83 +102,206 @@
       "godName": "Shiva",
       "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/o0lgkefu79ibozuu1yqd",
       "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/o0lgkefu79ibozuu1yqd"
+    },
+    {
+      "id": "hmcbwflqmqsfdiwhk72m",
+      "godName": "Ganesha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/hmcbwflqmqsfdiwhk72m",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/hmcbwflqmqsfdiwhk72m"
+    },
+    {
+      "id": "ssugdki7c9dllwcbjjrx",
+      "godName": "Ganesha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/ssugdki7c9dllwcbjjrx",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ssugdki7c9dllwcbjjrx"
+    },
+    {
+      "id": "kzpmvzyknlfiru9xol1m",
+      "godName": "Ganesha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/kzpmvzyknlfiru9xol1m",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/kzpmvzyknlfiru9xol1m"
+    },
+    {
+      "id": "elcvoxnokiq5olpiryw9",
+      "godName": "Ganesha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/elcvoxnokiq5olpiryw9",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/elcvoxnokiq5olpiryw9"
+    },
+    {
+      "id": "c3uw7nfbiljuuq0dnsrf",
+      "godName": "Hanuman",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/c3uw7nfbiljuuq0dnsrf",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/c3uw7nfbiljuuq0dnsrf"
+    },
+    {
+      "id": "aqq5yntvhnyp943hruql",
+      "godName": "Hanuman",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/aqq5yntvhnyp943hruql",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/aqq5yntvhnyp943hruql"
+    },
+    {
+      "id": "j0xmydi2xf4nrztc2glp",
+      "godName": "Murugan",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/j0xmydi2xf4nrztc2glp",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/j0xmydi2xf4nrztc2glp"
+    },
+    {
+      "id": "k8izbexcyx5xtkgxqaun",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/k8izbexcyx5xtkgxqaun",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/k8izbexcyx5xtkgxqaun"
+    },
+    {
+      "id": "xtgwxtfcoq0qxilptpql",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/xtgwxtfcoq0qxilptpql",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/xtgwxtfcoq0qxilptpql"
+    },
+    {
+      "id": "xitonewqoubm5q38s5eg",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/xitonewqoubm5q38s5eg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/xitonewqoubm5q38s5eg"
+    },
+    {
+      "id": "ycnvexdttnqzdzogb604",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/ycnvexdttnqzdzogb604",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ycnvexdttnqzdzogb604"
+    },
+    {
+      "id": "rllvvnfoacqdkgq6vp7q",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/rllvvnfoacqdkgq6vp7q",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/rllvvnfoacqdkgq6vp7q"
+    },
+    {
+      "id": "w9essym1unkzhqtf2fdj",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/w9essym1unkzhqtf2fdj",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/w9essym1unkzhqtf2fdj"
+    },
+    {
+      "id": "kpjztkvnmk0vjxgktgxv",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/kpjztkvnmk0vjxgktgxv",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/kpjztkvnmk0vjxgktgxv"
+    },
+    {
+      "id": "b9rntb0arcinfstjlmbd",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/b9rntb0arcinfstjlmbd",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/b9rntb0arcinfstjlmbd"
+    },
+    {
+      "id": "alcnsywjffrhm2e177cx",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/alcnsywjffrhm2e177cx",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/alcnsywjffrhm2e177cx"
     }
   ],
   "quotes": [
-    { "id": "krishna_q1", "text": "భక్తి ఉన్న చోటే భగవంతుడు ఉంటాడు 🙏", "godName": "Krishna" },
-    { "id": "krishna_q2", "text": "హరే కృష్ణ హరే రామ 🙏", "godName": "Krishna" },
-    { "id": "krishna_q3", "text": "గోవిందా గోవిందా శ్రీ కృష్ణ గోవిందా 🙏", "godName": "Krishna" },
-    { "id": "krishna_q4", "text": "కృష్ణుని నామం జపించిన చాలు మోక్షం లభిస్తుంది 🙏", "godName": "Krishna" },
-    { "id": "krishna_q5", "text": "రాధా కృష్ణుల ప్రేమ భక్తికి ఆదర్శం 🙏", "godName": "Krishna" },
-    { "id": "krishna_q6", "text": "కృష్ణా నీ లీలలు అనంతమైనవి 🙏", "godName": "Krishna" },
-    { "id": "krishna_q7", "text": "గోపాలుని దర్శనం జీవితాన్ని ధన్యం చేస్తుంది 🙏", "godName": "Krishna" },
-    { "id": "krishna_q8", "text": "మురళీధరుని వేణుగానం మనసును శాంతిపరుస్తుంది 🙏", "godName": "Krishna" },
-    { "id": "shiva_q1", "text": "ఓం నమః శివాయ 🙏", "godName": "Shiva" },
-    { "id": "shiva_q2", "text": "హర హర మహాదేవ 🙏", "godName": "Shiva" },
-    { "id": "shiva_q3", "text": "శంభో శంకర దేవాది దేవ 🙏", "godName": "Shiva" },
-    { "id": "shiva_q4", "text": "శివుని పాదాలే నా శరణు 🙏", "godName": "Shiva" },
-    { "id": "shiva_q5", "text": "మహాదేవుని కృప లేకుండా ఏదీ సాధ్యం కాదు 🙏", "godName": "Shiva" },
-    { "id": "shiva_q6", "text": "భోలేనాథుని భక్తి మనసుకు శాంతి ఇస్తుంది 🙏", "godName": "Shiva" },
-    { "id": "shiva_q7", "text": "నీలకంఠుని స్మరణతో భయం తొలగిపోతుంది 🙏", "godName": "Shiva" },
-    { "id": "shiva_q8", "text": "పార్వతీ పతి శివుని అనుగ్రహం సదా కావాలి 🙏", "godName": "Shiva" },
-    { "id": "ganesha_q1", "text": "గణపతి బప్పా మోరియా 🙏", "godName": "Ganesha" },
-    { "id": "ganesha_q2", "text": "శ్రీ గణేశాయ నమః 🙏", "godName": "Ganesha" },
-    { "id": "ganesha_q3", "text": "విఘ్నేశ్వరుని అనుగ్రహంతో జీవితం సుఖమవుతుంది 🙏", "godName": "Ganesha" },
-    { "id": "ganesha_q4", "text": "గణేశుని పూజతో అన్ని పనులు విజయవంతమవుతాయి 🙏", "godName": "Ganesha" },
-    { "id": "ganesha_q5", "text": "వినాయకా నీ అనుగ్రహం ఎల్లప్పుడూ ఉండాలి 🙏", "godName": "Ganesha" },
-    { "id": "ganesha_q6", "text": "ఏ పని మొదలుపెట్టినా గణపతిని స్మరించు 🙏", "godName": "Ganesha" },
-    { "id": "ganesha_q7", "text": "లంబోదరుని దీవెనతో జీవితం సుఖమయమవుతుంది 🙏", "godName": "Ganesha" },
-    { "id": "ganesha_q8", "text": "గజాననుని పూజ విఘ్నాలను తొలగిస్తుంది 🙏", "godName": "Ganesha" },
-    { "id": "hanuman_q1", "text": "జై హనుమాన్ జ్ఞాన గుణ సాగర 🙏", "godName": "Hanuman" },
-    { "id": "hanuman_q2", "text": "ఆంజనేయాయ నమః 🙏", "godName": "Hanuman" },
-    { "id": "hanuman_q3", "text": "హనుమంతుని భక్తితో శత్రువులు తొలగిపోతారు 🙏", "godName": "Hanuman" },
-    { "id": "hanuman_q4", "text": "వాయుపుత్రుని సేవతో బలం వస్తుంది 🙏", "godName": "Hanuman" },
-    { "id": "hanuman_q5", "text": "రామభక్తుడైన హనుమంతుడు సదా రక్షిస్తాడు 🙏", "godName": "Hanuman" },
-    { "id": "hanuman_q6", "text": "సంకటమోచన హనుమంతుని నామం జపించు 🙏", "godName": "Hanuman" },
-    { "id": "hanuman_q7", "text": "కేసరీనందనుని కృపతో అన్ని కష్టాలు తీరుతాయి 🙏", "godName": "Hanuman" },
-    { "id": "lakshmi_q1", "text": "శ్రీ మహాలక్ష్మ్యై నమః 🙏", "godName": "Lakshmi" },
-    { "id": "lakshmi_q2", "text": "జయ జయ లక్ష్మి అమ్మా 🙏", "godName": "Lakshmi" },
-    { "id": "lakshmi_q3", "text": "లక్ష్మీ అమ్మ కటాక్షంతో ఇల్లు సిరిసంపదలతో నిండుతుంది 🙏", "godName": "Lakshmi" },
-    { "id": "lakshmi_q4", "text": "కమలాదేవి అనుగ్రహంతో దరిద్రం తొలగిపోతుంది 🙏", "godName": "Lakshmi" },
-    { "id": "lakshmi_q5", "text": "విష్ణుప్రియ లక్ష్మిదేవిని నిత్యం పూజించు 🙏", "godName": "Lakshmi" },
-    { "id": "lakshmi_q6", "text": "అమ్మ లక్ష్మి దీవెనతో జీవితం సుభిక్షమవుతుంది 🙏", "godName": "Lakshmi" },
-    { "id": "lakshmi_q7", "text": "పద్మాసనస్థిత లక్ష్మీదేవికి నమస్కారం 🙏", "godName": "Lakshmi" },
-    { "id": "murugan_q1", "text": "శరవణభవ 🙏", "godName": "Murugan" },
-    { "id": "murugan_q2", "text": "శ్రీ సుబ్రహ్మణ్యేశ్వరుని జయం 🙏", "godName": "Murugan" },
-    { "id": "murugan_q3", "text": "వేలుమురుగా వెట్రి వేల్ — మురుగన్ జయం 🙏", "godName": "Murugan" },
-    { "id": "murugan_q4", "text": "కుమారస్వామి అనుగ్రహంతో శత్రువులు తొలగిపోతారు 🙏", "godName": "Murugan" },
-    { "id": "murugan_q5", "text": "స్కందుని పూజతో జ్ఞానం వస్తుంది 🙏", "godName": "Murugan" },
-    { "id": "murugan_q6", "text": "శివపార్వతుల పుత్రుడు మురుగన్ సదా రక్షిస్తాడు 🙏", "godName": "Murugan" },
-    { "id": "murugan_q7", "text": "కార్తికేయుని స్మరణతో మనసు నిర్మలమవుతుంది 🙏", "godName": "Murugan" },
-    { "id": "venkateshwara_q1", "text": "గోవిందా గోవిందా వేంకటరమణా 🙏", "godName": "Venkateshwara" },
-    { "id": "venkateshwara_q2", "text": "తిరుపతి బాలాజీ దర్శనం పాపాలను తొలగిస్తుంది 🙏", "godName": "Venkateshwara" },
-    { "id": "venkateshwara_q3", "text": "శ్రీనివాసుని కృపతో కోరికలు తీరుతాయి 🙏", "godName": "Venkateshwara" },
-    { "id": "venkateshwara_q4", "text": "వేంకటేశ్వర స్వామి సప్తగిరి నివాసా 🙏", "godName": "Venkateshwara" },
-    { "id": "venkateshwara_q5", "text": "బాలాజీ దయతో జీవితం ధన్యమవుతుంది 🙏", "godName": "Venkateshwara" },
-    { "id": "rama_q1", "text": "జయ్ శ్రీరామ్ — రాముని నామం మహామంత్రం 🙏", "godName": "Rama" },
-    { "id": "rama_q2", "text": "రఘువంశ తిలకుడు శ్రీరాముడు సదా రక్షిస్తాడు 🙏", "godName": "Rama" },
-    { "id": "rama_q3", "text": "సీతారాముల భక్తి మోక్షానికి మార్గం 🙏", "godName": "Rama" },
-    { "id": "rama_q4", "text": "రామ నామం జపించిన చాలు పాపాలు తొలగుతాయి 🙏", "godName": "Rama" },
-    { "id": "rama_q5", "text": "కోదండరాముని దయతో శత్రువులు తొలగిపోతారు 🙏", "godName": "Rama" },
-    { "id": "saraswati_q1", "text": "శ్రీ సరస్వత్యై నమః — విద్యాదేవి అనుగ్రహం కావాలి 🙏", "godName": "Saraswati" },
-    { "id": "saraswati_q2", "text": "వాగ్దేవి కృపతో జ్ఞానం వికసిస్తుంది 🙏", "godName": "Saraswati" },
-    { "id": "saraswati_q3", "text": "సరస్వతి అమ్మ దీవెనతో బుద్ధి తేటపడుతుంది 🙏", "godName": "Saraswati" },
-    { "id": "saraswati_q4", "text": "వీణాపుస్తకధారిణి సరస్వతిని నిత్యం స్మరించు 🙏", "godName": "Saraswati" },
-    { "id": "saraswati_q5", "text": "విద్యా దదాతి వినయం — సరస్వతి అనుగ్రహం 🙏", "godName": "Saraswati" },
-    { "id": "durga_q1", "text": "జయ దుర్గా మాతా — అమ్మ సదా రక్షిస్తుంది 🙏", "godName": "Durga" },
-    { "id": "durga_q2", "text": "దుర్గమ్మ కృపతో శత్రువులు తొలగిపోతారు 🙏", "godName": "Durga" },
-    { "id": "durga_q3", "text": "నవదుర్గ మాత అనుగ్రహం సదా కావాలి 🙏", "godName": "Durga" },
-    { "id": "durga_q4", "text": "మహిషాసురమర్దిని దుర్గమ్మకు జయం 🙏", "godName": "Durga" },
-    { "id": "durga_q5", "text": "అమ్మ దుర్గ పాదాలే నా శరణు 🙏", "godName": "Durga" },
-    { "id": "ayyappa_q1", "text": "స్వామియే శరణం అయ్యప్పా 🙏", "godName": "Ayyappa" },
-    { "id": "ayyappa_q2", "text": "అయ్యప్ప స్వామి అనుగ్రహంతో జీవితం ధన్యమవుతుంది 🙏", "godName": "Ayyappa" },
-    { "id": "ayyappa_q3", "text": "శబరిమల స్వామి అయ్యప్పకు జయం 🙏", "godName": "Ayyappa" }
+    {
+      "id": "krishna_q1",
+      "text": "భక్తి ఉన్న చోటే భగవంతుడు ఉంటాడు 🙏",
+      "godName": "Krishna"
+    },
+    {
+      "id": "krishna_q2",
+      "text": "హరే కృష్ణ హరే రామ 🙏",
+      "godName": "Krishna"
+    },
+    {
+      "id": "krishna_q3",
+      "text": "గోవిందా గోవిందా శ్రీ కృష్ణ గోవిందా 🙏",
+      "godName": "Krishna"
+    },
+    {
+      "id": "shiva_q1",
+      "text": "ఓం నమః శివాయ 🙏",
+      "godName": "Shiva"
+    },
+    {
+      "id": "shiva_q2",
+      "text": "హర హర మహాదేవ 🙏",
+      "godName": "Shiva"
+    },
+    {
+      "id": "shiva_q3",
+      "text": "శంభో శంకర దేవాది దేవ 🙏",
+      "godName": "Shiva"
+    },
+    {
+      "id": "ganesha_q1",
+      "text": "గణపతి బప్పా మోరియా 🙏",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "ganesha_q2",
+      "text": "శ్రీ గణేశాయ నమః 🙏",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "ganesha_q3",
+      "text": "విఘ్నేశ్వరుని అనుగ్రహంతో జీవితం సుఖమవుతుంది 🙏",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "hanuman_q1",
+      "text": "జై హనుమాన్ జ్ఞాన గుణ సాగర 🙏",
+      "godName": "Hanuman"
+    },
+    {
+      "id": "hanuman_q2",
+      "text": "ఆంజనేయాయ నమః 🙏",
+      "godName": "Hanuman"
+    },
+    {
+      "id": "lakshmi_q1",
+      "text": "శ్రీ మహాలక్ష్మ్యై నమః 🙏",
+      "godName": "Lakshmi"
+    },
+    {
+      "id": "lakshmi_q2",
+      "text": "జయ జయ లక్ష్మి అమ్మా 🙏",
+      "godName": "Lakshmi"
+    },
+    {
+      "id": "murugan_q1",
+      "text": "శరవణభవ 🙏",
+      "godName": "Murugan"
+    },
+    {
+      "id": "murugan_q2",
+      "text": "శ్రీ సుబ్రహ్మణ్యేశ్వరుని జయం 🙏",
+      "godName": "Murugan"
+    }
   ],
   "festivals": [
-    { "mmdd": "08-26", "godName": "Krishna", "label": "జన్మాష్టమి" },
-    { "mmdd": "02-26", "godName": "Shiva", "label": "మహాశివరాత్రి" },
-    { "mmdd": "09-07", "godName": "Ganesha", "label": "వినాయక చవితి" },
-    { "mmdd": "10-12", "godName": "Lakshmi", "label": "దీపావళి" },
-    { "mmdd": "04-14", "godName": "Murugan", "label": "హనుమాన్ జయంతి" }
+    {
+      "mmdd": "08-26",
+      "godName": "Krishna",
+      "label": "జన్మాష్టమి"
+    },
+    {
+      "mmdd": "02-26",
+      "godName": "Shiva",
+      "label": "మహాశివరాత్రి"
+    },
+    {
+      "mmdd": "09-07",
+      "godName": "Ganesha",
+      "label": "వినాయక చవితి"
+    },
+    {
+      "mmdd": "10-12",
+      "godName": "Lakshmi",
+      "label": "దీపావళి"
+    },
+    {
+      "mmdd": "04-14",
+      "godName": "Murugan",
+      "label": "హనుమాన్ జయంతి"
+    }
   ]
 }
