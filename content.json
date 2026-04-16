@@ -1,371 +1,471 @@
 {
-	"version": 17,
-	"images": [{
-			"id": "krishna1",
-			"godName": "Krishna",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/krishna_chzkxg",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/krishna_chzkxg"
-		},
-		{
-			"id": "shiva1",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/shiva_tgflsk",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/shiva_tgflsk"
-		},
-		{
-			"id": "lakshmi1",
-			"godName": "Lakshmi",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/lakshmi_bj45wl",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/lakshmi_bj45wl"
-		},
-		{
-			"id": "lakshmi2",
-			"godName": "Lakshmi",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/lakshmi_cxiyye",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/lakshmi_cxiyye"
-		},
-		{
-			"id": "murugan1",
-			"godName": "Murugan",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/murugan_ceaut4",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/murugan_ceaut4"
-		},
-		{
-			"id": "vinayaka1",
-			"godName": "Ganesha",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/vinayaka_m1yync",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/vinayaka_m1yync"
-		},
-		{
-			"id": "hanuman1",
-			"godName": "Hanuman",
-			"url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/hanuman.jpg",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/krishna_chzkxg"
-		},
-		{
-			"id": "a7wbavznvb0jucwqd7hc",
-			"godName": "Ayyappa",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/a7wbavznvb0jucwqd7hc",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/a7wbavznvb0jucwqd7hc"
-		},
-		{
-			"id": "fmnonpzy6ejvwhhwynfn",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/fmnonpzy6ejvwhhwynfn",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/fmnonpzy6ejvwhhwynfn"
-		},
-		{
-			"id": "uwlgqldwwficreez7wbc",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/uwlgqldwwficreez7wbc",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/uwlgqldwwficreez7wbc"
-		},
-		{
-			"id": "b9muwivh3xa405bmmv99",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/b9muwivh3xa405bmmv99",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/b9muwivh3xa405bmmv99"
-		},
-		{
-			"id": "gz97qt1bv2tqqy1tciji",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/gz97qt1bv2tqqy1tciji",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/gz97qt1bv2tqqy1tciji"
-		},
-		{
-			"id": "spuqy15gjz2di3qlp858",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/spuqy15gjz2di3qlp858",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/spuqy15gjz2di3qlp858"
-		},
-		{
-			"id": "uxehy3oqhsx2rywotwvh",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/uxehy3oqhsx2rywotwvh",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/uxehy3oqhsx2rywotwvh"
-		},
-		{
-			"id": "ztp0oycmhyz2vgy1c0hh",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/ztp0oycmhyz2vgy1c0hh",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ztp0oycmhyz2vgy1c0hh"
-		},
-		{
-			"id": "oqkfymyicr5ec9tuvkxc",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/oqkfymyicr5ec9tuvkxc",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/oqkfymyicr5ec9tuvkxc"
-		},
-		{
-			"id": "o0lgkefu79ibozuu1yqd",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/o0lgkefu79ibozuu1yqd",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/o0lgkefu79ibozuu1yqd"
-		},
-		{
-			"id": "hmcbwflqmqsfdiwhk72m",
-			"godName": "Ganesha",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/hmcbwflqmqsfdiwhk72m",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/hmcbwflqmqsfdiwhk72m"
-		},
-		{
-			"id": "ssugdki7c9dllwcbjjrx",
-			"godName": "Ganesha",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/ssugdki7c9dllwcbjjrx",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ssugdki7c9dllwcbjjrx"
-		},
-		{
-			"id": "kzpmvzyknlfiru9xol1m",
-			"godName": "Ganesha",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/kzpmvzyknlfiru9xol1m",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/kzpmvzyknlfiru9xol1m"
-		},
-		{
-			"id": "elcvoxnokiq5olpiryw9",
-			"godName": "Ganesha",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/elcvoxnokiq5olpiryw9",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/elcvoxnokiq5olpiryw9"
-		},
-		{
-			"id": "c3uw7nfbiljuuq0dnsrf",
-			"godName": "Hanuman",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/c3uw7nfbiljuuq0dnsrf",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/c3uw7nfbiljuuq0dnsrf"
-		},
-		{
-			"id": "aqq5yntvhnyp943hruql",
-			"godName": "Hanuman",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/aqq5yntvhnyp943hruql",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/aqq5yntvhnyp943hruql"
-		},
-		{
-			"id": "j0xmydi2xf4nrztc2glp",
-			"godName": "Murugan",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/j0xmydi2xf4nrztc2glp",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/j0xmydi2xf4nrztc2glp"
-		},
-		{
-			"id": "k8izbexcyx5xtkgxqaun",
-			"godName": "Krishna",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/k8izbexcyx5xtkgxqaun",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/k8izbexcyx5xtkgxqaun"
-		},
-		{
-			"id": "xtgwxtfcoq0qxilptpql",
-			"godName": "Krishna",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/xtgwxtfcoq0qxilptpql",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/xtgwxtfcoq0qxilptpql"
-		},
-		{
-			"id": "xitonewqoubm5q38s5eg",
-			"godName": "Krishna",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/xitonewqoubm5q38s5eg",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/xitonewqoubm5q38s5eg"
-		},
-		{
-			"id": "ycnvexdttnqzdzogb604",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/ycnvexdttnqzdzogb604",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ycnvexdttnqzdzogb604"
-		},
-		{
-			"id": "rllvvnfoacqdkgq6vp7q",
-			"godName": "Krishna",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/rllvvnfoacqdkgq6vp7q",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/rllvvnfoacqdkgq6vp7q"
-		},
-		{
-			"id": "w9essym1unkzhqtf2fdj",
-			"godName": "Krishna",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/w9essym1unkzhqtf2fdj",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/w9essym1unkzhqtf2fdj"
-		},
-		{
-			"id": "kpjztkvnmk0vjxgktgxv",
-			"godName": "Krishna",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/kpjztkvnmk0vjxgktgxv",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/kpjztkvnmk0vjxgktgxv"
-		},
-		{
-			"id": "b9rntb0arcinfstjlmbd",
-			"godName": "Krishna",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/b9rntb0arcinfstjlmbd",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/b9rntb0arcinfstjlmbd"
-		},
-		{
-			"id": "alcnsywjffrhm2e177cx",
-			"godName": "Krishna",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/alcnsywjffrhm2e177cx",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/alcnsywjffrhm2e177cx"
-		},
-		{
-			"id": "bihtgh7mrch6oy8l6ouv",
-			"godName": "Murugan",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/bihtgh7mrch6oy8l6ouv",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/bihtgh7mrch6oy8l6ouv"
-		},
-		{
-			"id": "wwdkdbzanosqe7dtxnzf",
-			"godName": "Shiva",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/wwdkdbzanosqe7dtxnzf",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/wwdkdbzanosqe7dtxnzf"
-		},
-		{
-			"id": "oj7bdlyb545xdw1f3fym",
-			"godName": "Venkateshwara",
-			"url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/oj7bdlyb545xdw1f3fym",
-			"thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/oj7bdlyb545xdw1f3fym"
-		}
-	],
-	"quotes": [{
-			"id": "krishna_q1",
-			"text": "భక్తి ఉన్న చోటే భగవంతుడు ఉంటాడు 🙏",
-			"godName": "Krishna"
-		},
-		{
-			"id": "krishna_q2",
-			"text": "హరే కృష్ణ హరే రామ 🙏",
-			"godName": "Krishna"
-		},
-		{
-			"id": "krishna_q3",
-			"text": "గోవిందా గోవిందా శ్రీ కృష్ణ గోవిందా 🙏",
-			"godName": "Krishna"
-		},
-		{
-			"id": "shiva_q1",
-			"text": "ఓం నమః శివాయ 🙏",
-			"godName": "Shiva"
-		},
-		{
-			"id": "shiva_q2",
-			"text": "హర హర మహాదేవ 🙏",
-			"godName": "Shiva"
-		},
-		{
-			"id": "shiva_q3",
-			"text": "శంభో శంకర దేవాది దేవ 🙏",
-			"godName": "Shiva"
-		},
-		{
-			"id": "ganesha_q1",
-			"text": "గణపతి బప్పా మోరియా 🙏",
-			"godName": "Ganesha"
-		},
-		{
-			"id": "ganesha_q2",
-			"text": "శ్రీ గణేశాయ నమః 🙏",
-			"godName": "Ganesha"
-		},
-		{
-			"id": "ganesha_q3",
-			"text": "విఘ్నేశ్వరుని అనుగ్రహంతో జీవితం సుఖమవుతుంది 🙏",
-			"godName": "Ganesha"
-		},
-		{
-			"id": "hanuman_q1",
-			"text": "జై హనుమాన్ జ్ఞాన గుణ సాగర 🙏",
-			"godName": "Hanuman"
-		},
-		{
-			"id": "hanuman_q2",
-			"text": "ఆంజనేయాయ నమః 🙏",
-			"godName": "Hanuman"
-		},
-		{
-			"id": "lakshmi_q1",
-			"text": "శ్రీ మహాలక్ష్మ్యై నమః 🙏",
-			"godName": "Lakshmi"
-		},
-		{
-			"id": "lakshmi_q2",
-			"text": "జయ జయ లక్ష్మి అమ్మా 🙏",
-			"godName": "Lakshmi"
-		},
-		{
-			"id": "murugan_q1",
-			"text": "శరవణభవ 🙏",
-			"godName": "Murugan"
-		},
-		{
-			"id": "murugan_q2",
-			"text": "శ్రీ సుబ్రహ్మణ్యేశ్వరుని జయం 🙏",
-			"godName": "Murugan"
-		}, {
-			"id": "narasimha_q1",
-			"text": "ఓం నమో నారసింహాయ 🙏",
-			"godName": "Narasimha"
-		},
-		{
-			"id": "narasimha_q2",
-			"text": "నారసింహ స్వామి భక్తులను సదా రక్షిస్తాడు 🙏",
-			"godName": "Narasimha"
-		},
-		{
-			"id": "narasimha_q3",
-			"text": "ఉగ్ర నారసింహుని కృపతో శత్రువులు తొలగిపోతారు 🙏",
-			"godName": "Narasimha"
-		},
-		{
-			"id": "narasimha_q4",
-			"text": "లక్ష్మీ నారసింహ స్వామికి నమస్కారం 🙏",
-			"godName": "Narasimha"
-		},
-		{
-			"id": "narasimha_q5",
-			"text": "జయ జయ నారసింహ దేవా 🙏",
-			"godName": "Narasimha"
-		},
-		{
-			"id": "saibaba_q1",
-			"text": "సాయిబాబా చరణాలే నా శరణు 🙏",
-			"godName": "SaiBaba"
-		},
-		{
-			"id": "saibaba_q2",
-			"text": "శిర్డీ సాయి నాథుని అనుగ్రహం సదా కావాలి 🙏",
-			"godName": "SaiBaba"
-		},
-		{
-			"id": "saibaba_q3",
-			"text": "సబ్కా మాలిక్ ఏక్ — సాయిబాబా 🙏",
-			"godName": "SaiBaba"
-		},
-		{
-			"id": "saibaba_q4",
-			"text": "సాయి నాథుని భక్తితో జీవితం ధన్యమవుతుంది 🙏",
-			"godName": "SaiBaba"
-		},
-		{
-			"id": "saibaba_q5",
-			"text": "ఓం సాయి రామ్ — సాయిబాబాకు జయం 🙏",
-			"godName": "SaiBaba"
-		}
-	],
-	"festivals": [{
-			"mmdd": "08-26",
-			"godName": "Krishna",
-			"label": "జన్మాష్టమి"
-		},
-		{
-			"mmdd": "02-26",
-			"godName": "Shiva",
-			"label": "మహాశివరాత్రి"
-		},
-		{
-			"mmdd": "09-07",
-			"godName": "Ganesha",
-			"label": "వినాయక చవితి"
-		},
-		{
-			"mmdd": "10-12",
-			"godName": "Lakshmi",
-			"label": "దీపావళి"
-		},
-		{
-			"mmdd": "04-14",
-			"godName": "Murugan",
-			"label": "హనుమాన్ జయంతి"
-		}
-	]
+  "version": 18,
+  "images": [
+    {
+      "id": "krishna1",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/krishna_chzkxg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/krishna_chzkxg"
+    },
+    {
+      "id": "shiva1",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/shiva_tgflsk",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/shiva_tgflsk"
+    },
+    {
+      "id": "lakshmi1",
+      "godName": "Lakshmi",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/lakshmi_bj45wl",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/lakshmi_bj45wl"
+    },
+    {
+      "id": "lakshmi2",
+      "godName": "Lakshmi",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/lakshmi_cxiyye",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/lakshmi_cxiyye"
+    },
+    {
+      "id": "murugan1",
+      "godName": "Murugan",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/murugan_ceaut4",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/murugan_ceaut4"
+    },
+    {
+      "id": "vinayaka1",
+      "godName": "Ganesha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/vinayaka_m1yync",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/vinayaka_m1yync"
+    },
+    {
+      "id": "hanuman1",
+      "godName": "Hanuman",
+      "url": "https://raw.githubusercontent.com/manikumarreddy06/telugu-bhakti-assets/main/images/hanuman.jpg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/krishna_chzkxg"
+    },
+    {
+      "id": "a7wbavznvb0jucwqd7hc",
+      "godName": "Ayyappa",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/a7wbavznvb0jucwqd7hc",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/a7wbavznvb0jucwqd7hc"
+    },
+    {
+      "id": "fmnonpzy6ejvwhhwynfn",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/fmnonpzy6ejvwhhwynfn",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/fmnonpzy6ejvwhhwynfn"
+    },
+    {
+      "id": "uwlgqldwwficreez7wbc",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/uwlgqldwwficreez7wbc",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/uwlgqldwwficreez7wbc"
+    },
+    {
+      "id": "b9muwivh3xa405bmmv99",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/b9muwivh3xa405bmmv99",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/b9muwivh3xa405bmmv99"
+    },
+    {
+      "id": "gz97qt1bv2tqqy1tciji",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/gz97qt1bv2tqqy1tciji",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/gz97qt1bv2tqqy1tciji"
+    },
+    {
+      "id": "spuqy15gjz2di3qlp858",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/spuqy15gjz2di3qlp858",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/spuqy15gjz2di3qlp858"
+    },
+    {
+      "id": "uxehy3oqhsx2rywotwvh",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/uxehy3oqhsx2rywotwvh",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/uxehy3oqhsx2rywotwvh"
+    },
+    {
+      "id": "ztp0oycmhyz2vgy1c0hh",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/ztp0oycmhyz2vgy1c0hh",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ztp0oycmhyz2vgy1c0hh"
+    },
+    {
+      "id": "oqkfymyicr5ec9tuvkxc",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/oqkfymyicr5ec9tuvkxc",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/oqkfymyicr5ec9tuvkxc"
+    },
+    {
+      "id": "o0lgkefu79ibozuu1yqd",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/o0lgkefu79ibozuu1yqd",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/o0lgkefu79ibozuu1yqd"
+    },
+    {
+      "id": "hmcbwflqmqsfdiwhk72m",
+      "godName": "Ganesha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/hmcbwflqmqsfdiwhk72m",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/hmcbwflqmqsfdiwhk72m"
+    },
+    {
+      "id": "ssugdki7c9dllwcbjjrx",
+      "godName": "Ganesha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/ssugdki7c9dllwcbjjrx",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ssugdki7c9dllwcbjjrx"
+    },
+    {
+      "id": "kzpmvzyknlfiru9xol1m",
+      "godName": "Ganesha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/kzpmvzyknlfiru9xol1m",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/kzpmvzyknlfiru9xol1m"
+    },
+    {
+      "id": "elcvoxnokiq5olpiryw9",
+      "godName": "Ganesha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/elcvoxnokiq5olpiryw9",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/elcvoxnokiq5olpiryw9"
+    },
+    {
+      "id": "c3uw7nfbiljuuq0dnsrf",
+      "godName": "Hanuman",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/c3uw7nfbiljuuq0dnsrf",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/c3uw7nfbiljuuq0dnsrf"
+    },
+    {
+      "id": "aqq5yntvhnyp943hruql",
+      "godName": "Hanuman",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/aqq5yntvhnyp943hruql",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/aqq5yntvhnyp943hruql"
+    },
+    {
+      "id": "j0xmydi2xf4nrztc2glp",
+      "godName": "Murugan",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/j0xmydi2xf4nrztc2glp",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/j0xmydi2xf4nrztc2glp"
+    },
+    {
+      "id": "k8izbexcyx5xtkgxqaun",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/k8izbexcyx5xtkgxqaun",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/k8izbexcyx5xtkgxqaun"
+    },
+    {
+      "id": "xtgwxtfcoq0qxilptpql",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/xtgwxtfcoq0qxilptpql",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/xtgwxtfcoq0qxilptpql"
+    },
+    {
+      "id": "xitonewqoubm5q38s5eg",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/xitonewqoubm5q38s5eg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/xitonewqoubm5q38s5eg"
+    },
+    {
+      "id": "ycnvexdttnqzdzogb604",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/ycnvexdttnqzdzogb604",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ycnvexdttnqzdzogb604"
+    },
+    {
+      "id": "rllvvnfoacqdkgq6vp7q",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/rllvvnfoacqdkgq6vp7q",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/rllvvnfoacqdkgq6vp7q"
+    },
+    {
+      "id": "w9essym1unkzhqtf2fdj",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/w9essym1unkzhqtf2fdj",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/w9essym1unkzhqtf2fdj"
+    },
+    {
+      "id": "kpjztkvnmk0vjxgktgxv",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/kpjztkvnmk0vjxgktgxv",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/kpjztkvnmk0vjxgktgxv"
+    },
+    {
+      "id": "b9rntb0arcinfstjlmbd",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/b9rntb0arcinfstjlmbd",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/b9rntb0arcinfstjlmbd"
+    },
+    {
+      "id": "alcnsywjffrhm2e177cx",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/alcnsywjffrhm2e177cx",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/alcnsywjffrhm2e177cx"
+    },
+    {
+      "id": "bihtgh7mrch6oy8l6ouv",
+      "godName": "Murugan",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/bihtgh7mrch6oy8l6ouv",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/bihtgh7mrch6oy8l6ouv"
+    },
+    {
+      "id": "wwdkdbzanosqe7dtxnzf",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/wwdkdbzanosqe7dtxnzf",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/wwdkdbzanosqe7dtxnzf"
+    },
+    {
+      "id": "oj7bdlyb545xdw1f3fym",
+      "godName": "Venkateshwara",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/oj7bdlyb545xdw1f3fym",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/oj7bdlyb545xdw1f3fym"
+    },
+    {
+      "id": "e6oh4vom4jeffegojaqd",
+      "godName": "Durga",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/e6oh4vom4jeffegojaqd",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/e6oh4vom4jeffegojaqd"
+    },
+    {
+      "id": "gocvyslf2qnnaijp7lfc",
+      "godName": "Ganesha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/gocvyslf2qnnaijp7lfc",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/gocvyslf2qnnaijp7lfc"
+    },
+    {
+      "id": "q0p0a8cktmmnsxe06ub6",
+      "godName": "Ganesha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/q0p0a8cktmmnsxe06ub6",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/q0p0a8cktmmnsxe06ub6"
+    },
+    {
+      "id": "pxpyye1dilpydc8pmknv",
+      "godName": "Hanuman",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/pxpyye1dilpydc8pmknv",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/pxpyye1dilpydc8pmknv"
+    },
+    {
+      "id": "i2nykxdtg4ja4dw2yl0p",
+      "godName": "Lakshmi",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/i2nykxdtg4ja4dw2yl0p",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/i2nykxdtg4ja4dw2yl0p"
+    },
+    {
+      "id": "eexck42qy9gmyhrnxu3w",
+      "godName": "Narasimha",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/eexck42qy9gmyhrnxu3w",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/eexck42qy9gmyhrnxu3w"
+    },
+    {
+      "id": "l5uzwbuvarhtfddwvzmj",
+      "godName": "Rama",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/l5uzwbuvarhtfddwvzmj",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/l5uzwbuvarhtfddwvzmj"
+    },
+    {
+      "id": "si6qduqzn5n6botql9sx",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/si6qduqzn5n6botql9sx",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/si6qduqzn5n6botql9sx"
+    },
+    {
+      "id": "dep8hmgjrjeurjtfnega",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/dep8hmgjrjeurjtfnega",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/dep8hmgjrjeurjtfnega"
+    },
+    {
+      "id": "eg4ca6xjs6uouzqjzncg",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/eg4ca6xjs6uouzqjzncg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/eg4ca6xjs6uouzqjzncg"
+    },
+    {
+      "id": "fjtzjp63qbmwqw9imgqv",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/fjtzjp63qbmwqw9imgqv",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/fjtzjp63qbmwqw9imgqv"
+    },
+    {
+      "id": "vl61wtshpbjlgge6i8yl",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/vl61wtshpbjlgge6i8yl",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/vl61wtshpbjlgge6i8yl"
+    },
+    {
+      "id": "geebrqxgwgreee2s0k1x",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/geebrqxgwgreee2s0k1x",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/geebrqxgwgreee2s0k1x"
+    },
+    {
+      "id": "l3dkya0lkogdyl9iikrn",
+      "godName": "Venkateshwara",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/l3dkya0lkogdyl9iikrn",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/l3dkya0lkogdyl9iikrn"
+    },
+    {
+      "id": "ewitla4okrqp2uxpfq7a",
+      "godName": "Venkateshwara",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/ewitla4okrqp2uxpfq7a",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ewitla4okrqp2uxpfq7a"
+    },
+    {
+      "id": "ai6ncpzky3org258fah9",
+      "godName": "Venkateshwara",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/ai6ncpzky3org258fah9",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ai6ncpzky3org258fah9"
+    }
+  ],
+  "quotes": [
+    {
+      "id": "krishna_q1",
+      "text": "భక్తి ఉన్న చోటే భగవంతుడు ఉంటాడు 🙏",
+      "godName": "Krishna"
+    },
+    {
+      "id": "krishna_q2",
+      "text": "హరే కృష్ణ హరే రామ 🙏",
+      "godName": "Krishna"
+    },
+    {
+      "id": "krishna_q3",
+      "text": "గోవిందా గోవిందా శ్రీ కృష్ణ గోవిందా 🙏",
+      "godName": "Krishna"
+    },
+    {
+      "id": "shiva_q1",
+      "text": "ఓం నమః శివాయ 🙏",
+      "godName": "Shiva"
+    },
+    {
+      "id": "shiva_q2",
+      "text": "హర హర మహాదేవ 🙏",
+      "godName": "Shiva"
+    },
+    {
+      "id": "shiva_q3",
+      "text": "శంభో శంకర దేవాది దేవ 🙏",
+      "godName": "Shiva"
+    },
+    {
+      "id": "ganesha_q1",
+      "text": "గణపతి బప్పా మోరియా 🙏",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "ganesha_q2",
+      "text": "శ్రీ గణేశాయ నమః 🙏",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "ganesha_q3",
+      "text": "విఘ్నేశ్వరుని అనుగ్రహంతో జీవితం సుఖమవుతుంది 🙏",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "hanuman_q1",
+      "text": "జై హనుమాన్ జ్ఞాన గుణ సాగర 🙏",
+      "godName": "Hanuman"
+    },
+    {
+      "id": "hanuman_q2",
+      "text": "ఆంజనేయాయ నమః 🙏",
+      "godName": "Hanuman"
+    },
+    {
+      "id": "lakshmi_q1",
+      "text": "శ్రీ మహాలక్ష్మ్యై నమః 🙏",
+      "godName": "Lakshmi"
+    },
+    {
+      "id": "lakshmi_q2",
+      "text": "జయ జయ లక్ష్మి అమ్మా 🙏",
+      "godName": "Lakshmi"
+    },
+    {
+      "id": "murugan_q1",
+      "text": "శరవణభవ 🙏",
+      "godName": "Murugan"
+    },
+    {
+      "id": "murugan_q2",
+      "text": "శ్రీ సుబ్రహ్మణ్యేశ్వరుని జయం 🙏",
+      "godName": "Murugan"
+    },
+    {
+      "id": "narasimha_q1",
+      "text": "ఓం నమో నారసింహాయ 🙏",
+      "godName": "Narasimha"
+    },
+    {
+      "id": "narasimha_q2",
+      "text": "నారసింహ స్వామి భక్తులను సదా రక్షిస్తాడు 🙏",
+      "godName": "Narasimha"
+    },
+    {
+      "id": "narasimha_q3",
+      "text": "ఉగ్ర నారసింహుని కృపతో శత్రువులు తొలగిపోతారు 🙏",
+      "godName": "Narasimha"
+    },
+    {
+      "id": "narasimha_q4",
+      "text": "లక్ష్మీ నారసింహ స్వామికి నమస్కారం 🙏",
+      "godName": "Narasimha"
+    },
+    {
+      "id": "narasimha_q5",
+      "text": "జయ జయ నారసింహ దేవా 🙏",
+      "godName": "Narasimha"
+    },
+    {
+      "id": "saibaba_q1",
+      "text": "సాయిబాబా చరణాలే నా శరణు 🙏",
+      "godName": "SaiBaba"
+    },
+    {
+      "id": "saibaba_q2",
+      "text": "శిర్డీ సాయి నాథుని అనుగ్రహం సదా కావాలి 🙏",
+      "godName": "SaiBaba"
+    },
+    {
+      "id": "saibaba_q3",
+      "text": "సబ్కా మాలిక్ ఏక్ — సాయిబాబా 🙏",
+      "godName": "SaiBaba"
+    },
+    {
+      "id": "saibaba_q4",
+      "text": "సాయి నాథుని భక్తితో జీవితం ధన్యమవుతుంది 🙏",
+      "godName": "SaiBaba"
+    },
+    {
+      "id": "saibaba_q5",
+      "text": "ఓం సాయి రామ్ — సాయిబాబాకు జయం 🙏",
+      "godName": "SaiBaba"
+    }
+  ],
+  "festivals": [
+    {
+      "mmdd": "08-26",
+      "godName": "Krishna",
+      "label": "జన్మాష్టమి"
+    },
+    {
+      "mmdd": "02-26",
+      "godName": "Shiva",
+      "label": "మహాశివరాత్రి"
+    },
+    {
+      "mmdd": "09-07",
+      "godName": "Ganesha",
+      "label": "వినాయక చవితి"
+    },
+    {
+      "mmdd": "10-12",
+      "godName": "Lakshmi",
+      "label": "దీపావళి"
+    },
+    {
+      "mmdd": "04-14",
+      "godName": "Murugan",
+      "label": "హనుమాన్ జయంతి"
+    }
+  ]
 }
