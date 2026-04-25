@@ -314,251 +314,282 @@
       "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ai6ncpzky3org258fah9"
     }
   ],
-  "quotes": [
+  {
+  "quotes_bhagavad_gita": [
     {
-      "id": "krishna_q1",
-      "text": "భక్తి ఉన్న చోటే భగవంతుడు ఉంటాడు 🙏",
-      "godName": "Krishna"
+      "id": "gita_q1",
+      "text": "కర్మణ్యేవాధికారస్తే మా ఫలేషు కదాచన",
+      "godName": "Krishna",
+      "source": "Bhagavad Gita 2.47"
     },
     {
-      "id": "krishna_q2",
-      "text": "హరే కృష్ణ హరే రామ 🙏",
-      "godName": "Krishna"
+      "id": "gita_q2",
+      "text": "యదా యదా హి ధర్మస్య గ్లానిర్భవతి భారత",
+      "godName": "Krishna",
+      "source": "Bhagavad Gita 4.7"
     },
     {
-      "id": "krishna_q3",
-      "text": "గోవిందా గోవిందా శ్రీ కృష్ణ గోవిందా 🙏",
-      "godName": "Krishna"
+      "id": "gita_q3",
+      "text": "పరిత్రాణాయ సాధూనాం వినాశాయ చ దుష్కృతామ్",
+      "godName": "Krishna",
+      "source": "Bhagavad Gita 4.8"
     },
     {
-      "id": "shiva_q1",
-      "text": "ఓం నమః శివాయ 🙏",
-      "godName": "Shiva"
+      "id": "gita_q4",
+      "text": "సర్వధర్మాన్ పరిత్యజ్య మామేకం శరణం వ్రజ",
+      "godName": "Krishna",
+      "source": "Bhagavad Gita 18.66"
     },
     {
-      "id": "shiva_q2",
-      "text": "హర హర మహాదేవ 🙏",
-      "godName": "Shiva"
+      "id": "gita_q5",
+      "text": "వాసాంసి జీర్ణాని యథా విహాయ నవాని గృహ్ణాతి నరోఽపరాణి",
+      "godName": "Krishna",
+      "source": "Bhagavad Gita 2.22"
     },
     {
-      "id": "shiva_q3",
-      "text": "శంభో శంకర దేవాది దేవ 🙏",
-      "godName": "Shiva"
+      "id": "gita_q6",
+      "text": "నైనం ఛిందంతి శస్త్రాణి నైనం దహతి పావకః",
+      "godName": "Krishna",
+      "source": "Bhagavad Gita 2.23"
     },
     {
-      "id": "ganesha_q1",
-      "text": "గణపతి బప్పా మోరియా 🙏",
-      "godName": "Ganesha"
+      "id": "gita_q7",
+      "text": "హతో వా ప్రాప్స్యసి స్వర్గం జిత్వా వా భోక్ష్యసే మహీమ్",
+      "godName": "Krishna",
+      "source": "Bhagavad Gita 2.37"
     },
     {
-      "id": "ganesha_q2",
-      "text": "శ్రీ గణేశాయ నమః 🙏",
-      "godName": "Ganesha"
+      "id": "gita_q8",
+      "text": "యోగస్థః కురు కర్మాణి సంగం త్యక్త్వా ధనంజయ",
+      "godName": "Krishna",
+      "source": "Bhagavad Gita 2.48"
     },
     {
-      "id": "ganesha_q3",
-      "text": "విఘ్నేశ్వరుని అనుగ్రహంతో జీవితం సుఖమవుతుంది 🙏",
-      "godName": "Ganesha"
+      "id": "gita_q9",
+      "text": "బుద్ధియుక్తో జహాతీహ ఉభే సుకృతదుష్కృతే",
+      "godName": "Krishna",
+      "source": "Bhagavad Gita 2.50"
     },
     {
-      "id": "hanuman_q1",
-      "text": "జై హనుమాన్ జ్ఞాన గుణ సాగర 🙏",
-      "godName": "Hanuman"
-    },
-    {
-      "id": "hanuman_q2",
-      "text": "ఆంజనేయాయ నమః 🙏",
-      "godName": "Hanuman"
-    },
-    {
-      "id": "lakshmi_q1",
-      "text": "శ్రీ మహాలక్ష్మ్యై నమః 🙏",
-      "godName": "Lakshmi"
-    },
-    {
-      "id": "lakshmi_q2",
-      "text": "జయ జయ లక్ష్మి అమ్మా 🙏",
-      "godName": "Lakshmi"
-    },
-    {
-      "id": "murugan_q1",
-      "text": "శరవణభవ 🙏",
-      "godName": "Murugan"
-    },
-    {
-      "id": "murugan_q2",
-      "text": "శ్రీ సుబ్రహ్మణ్యేశ్వరుని జయం 🙏",
-      "godName": "Murugan"
-    },
-    {
-      "id": "narasimha_q1",
-      "text": "ఓం నమో నారసింహాయ 🙏",
-      "godName": "Narasimha"
-    },
-    {
-      "id": "narasimha_q2",
-      "text": "నారసింహ స్వామి భక్తులను సదా రక్షిస్తాడు 🙏",
-      "godName": "Narasimha"
-    },
-    {
-      "id": "narasimha_q3",
-      "text": "ఉగ్ర నారసింహుని కృపతో శత్రువులు తొలగిపోతారు 🙏",
-      "godName": "Narasimha"
-    },
-    {
-      "id": "narasimha_q4",
-      "text": "లక్ష్మీ నారసింహ స్వామికి నమస్కారం 🙏",
-      "godName": "Narasimha"
-    },
-    {
-      "id": "narasimha_q5",
-      "text": "జయ జయ నారసింహ దేవా 🙏",
-      "godName": "Narasimha"
-    },
-    {
-      "id": "saibaba_q1",
-      "text": "సాయిబాబా చరణాలే నా శరణు 🙏",
-      "godName": "SaiBaba"
-    },
-    {
-      "id": "saibaba_q2",
-      "text": "శిర్డీ సాయి నాథుని అనుగ్రహం సదా కావాలి 🙏",
-      "godName": "SaiBaba"
-    },
-    {
-      "id": "saibaba_q3",
-      "text": "సబ్కా మాలిక్ ఏక్ — సాయిబాబా 🙏",
-      "godName": "SaiBaba"
-    },
-    {
-      "id": "saibaba_q4",
-      "text": "సాయి నాథుని భక్తితో జీవితం ధన్యమవుతుంది 🙏",
-      "godName": "SaiBaba"
-    },
-    {
-      "id": "saibaba_q5",
-      "text": "ఓం సాయి రామ్ — సాయిబాబాకు జయం 🙏",
-      "godName": "SaiBaba"
-    },
-    {
-      "id": "krishna_q4",
-      "text": "నీ కర్మ చేయి — ఫలితం కృష్ణుడి దే 🙏",
-      "godName": "Krishna"
-    },
-    {
-      "id": "krishna_q5",
-      "text": "కృష్ణుడి పేరు పలికితే మనసుకు శాంతి లభిస్తుంది 🙏",
-      "godName": "Krishna"
-    },
-    {
-      "id": "krishna_q6",
-      "text": "గోవింద నామమే జీవితం నిలబెడుతుంది 🙏",
-      "godName": "Krishna"
-    },
-
-    {
-      "id": "shiva_q4",
-      "text": "శివుని స్మరణలోనే నిజమైన శాంతి 🙏",
-      "godName": "Shiva"
-    },
-    {
-      "id": "shiva_q5",
-      "text": "శివుడు ఉన్నచోట భయం ఉండదు 🙏",
-      "godName": "Shiva"
-    },
-    {
-      "id": "shiva_q6",
-      "text": "మహాదేవుని కృపతో కష్టాలు కరిగిపోతాయి 🙏",
-      "godName": "Shiva"
-    },
-
-    {
-      "id": "ganesha_q4",
-      "text": "వినాయకుడి ఆశీర్వాదం తో ప్రతి ప్రారంభం విజయమే 🙏",
-      "godName": "Ganesha"
-    },
-    {
-      "id": "ganesha_q5",
-      "text": "గణపతి పేరు ఉన్నచోట అడ్డంకులు ఉండవు 🙏",
-      "godName": "Ganesha"
-    },
-
-    {
-      "id": "hanuman_q3",
-      "text": "జై శ్రీరామ్ అన్నచోట హనుమంతుడు ఉంటాడు 🙏",
-      "godName": "Hanuman"
-    },
-    {
-      "id": "hanuman_q4",
-      "text": "హనుమంతుడి భక్తి ధైర్యానికి మూలం 🙏",
-      "godName": "Hanuman"
-    },
-
-    {
-      "id": "lakshmi_q3",
-      "text": "లక్ష్మీ కటాక్షం ఉన్నచోట సమృద్ధి ఉంటుంది 🙏",
-      "godName": "Lakshmi"
-    },
-    {
-      "id": "lakshmi_q4",
-      "text": "శుభ్రత ఉన్నచోటే లక్ష్మీ నివసిస్తుంది 🙏",
-      "godName": "Lakshmi"
-    },
-
-    {
-      "id": "murugan_q3",
-      "text": "సుబ్రహ్మణ్య స్వామి దయతో భయం దూరమవుతుంది 🙏",
-      "godName": "Murugan"
-    },
-    {
-      "id": "murugan_q4",
-      "text": "శరవణభవ నామం శక్తిని నింపుతుంది 🙏",
-      "godName": "Murugan"
-    },
-
-    {
-      "id": "narasimha_q6",
-      "text": "నారసింహ స్వామి భక్తుని ఎప్పుడూ కాపాడుతాడు 🙏",
-      "godName": "Narasimha"
-    },
-    {
-      "id": "narasimha_q7",
-      "text": "ఉగ్ర నారసింహుడు శత్రువులపై విజయం ఇస్తాడు 🙏",
-      "godName": "Narasimha"
-    },
-
-    {
-      "id": "saibaba_q6",
-      "text": "సాయి నామమే శరణ్యం 🙏",
-      "godName": "SaiBaba"
-    },
-    {
-      "id": "saibaba_q7",
-      "text": "సాయి కృప ఉంటే జీవితం సులభం అవుతుంది 🙏",
-      "godName": "SaiBaba"
-    },
-
-    {
-      "id": "rama_q1",
-      "text": "జై శ్రీరామ్ — ధర్మానికి జయం 🙏",
-      "godName": "Rama"
-    },
-    {
-      "id": "rama_q2",
-      "text": "రామ నామమే మనసుకు శాంతి 🙏",
-      "godName": "Rama"
-    },
-
-    {
-      "id": "venkateswara_q1",
-      "text": "గోవింద గోవింద — వెంకటేశ్వరుని దయ అపారం 🙏",
-      "godName": "Venkateswara"
-    },
-    {
-      "id": "venkateswara_q2",
-      "text": "శ్రీనివాసుని కటాక్షం ఉంటే ఏదీ కష్టం కాదు 🙏",
-      "godName": "Venkateswara"
+      "id": "gita_q10",
+      "text": "అహం సర్వస్య ప్రభవో మత్తః సర్వం ప్రవర్తతే",
+      "godName": "Krishna",
+      "source": "Bhagavad Gita 10.8"
     }
+  ],
+  "quotes_ramayana": [
+    {
+      "id": "rama_q3",
+      "text": "ఆపదాం కథితః పంథా ఇంద్రియాణామసంయమః",
+      "godName": "Rama",
+      "source": "Valmiki Ramayana"
+    },
+    {
+      "id": "rama_q4",
+      "text": "సత్యమేవ జయతే నానృతం",
+      "godName": "Rama",
+      "source": "Mundaka Upanishad"
+    },
+    {
+      "id": "rama_q5",
+      "text": "ధర్మ ఏవ హతో హంతి ధర్మో రక్షతి రక్షితః",
+      "godName": "Rama",
+      "source": "Manusmriti / Ramayana essence"
+    },
+    {
+      "id": "hanuman_q5",
+      "text": "మనోజవం మారుతతుల్యవేగం జితేంద్రియం బుద్ధిమతాం వరిష్ఠమ్",
+      "godName": "Hanuman",
+      "source": "Hanuman Chalisa / Ramayana"
+    },
+    {
+      "id": "hanuman_q6",
+      "text": "బుద్ధిహీన తనుజానికే సుమిరౌ పవనకుమార",
+      "godName": "Hanuman",
+      "source": "Hanuman Chalisa"
+    },
+    {
+      "id": "hanuman_q7",
+      "text": "భూత పిశాచ నికట నహిం ఆవై మహావీర జప నామ సునావై",
+      "godName": "Hanuman",
+      "source": "Hanuman Chalisa"
+    },
+    {
+      "id": "rama_q6",
+      "text": "రామో విగ్రహవాన్ ధర్మః",
+      "godName": "Rama",
+      "source": "Valmiki Ramayana"
+    },
+    {
+      "id": "rama_q7",
+      "text": "రఘుకుల రీతి సదా చలి ఆయీ ప్రాణ జాయీ పర వచన న జాయీ",
+      "godName": "Rama",
+      "source": "Ramcharitmanas"
+    }
+  ],
+  "quotes_upanishads": [
+    {
+      "id": "upanishad_q1",
+      "text": "సత్యమేవ జయతే",
+      "godName": "Durga",
+      "source": "Mundaka Upanishad 3.1.6"
+    },
+    {
+      "id": "upanishad_q2",
+      "text": "అసతో మా సద్గమయ | తమసో మా జ్యోతిర్గమయ | మృత్యోర్మా అమృతం గమయ",
+      "godName": "Shiva",
+      "source": "Brihadaranyaka Upanishad"
+    },
+    {
+      "id": "upanishad_q3",
+      "text": "అహం బ్రహ్మాస్మి",
+      "godName": "Shiva",
+      "source": "Brihadaranyaka Upanishad"
+    },
+    {
+      "id": "upanishad_q4",
+      "text": "తత్ త్వమ్ అసి",
+      "godName": "Vishnu",
+      "source": "Chandogya Upanishad"
+    },
+    {
+      "id": "upanishad_q5",
+      "text": "ఏకం సత్ విప్రా బహుధా వదంతి",
+      "godName": "Krishna",
+      "source": "Rig Veda"
+    }
+  ],
+  "quotes_mahabharata": [
+    {
+      "id": "mahabharata_q1",
+      "text": "అహింసా పరమో ధర్మః",
+      "godName": "Krishna",
+      "source": "Mahabharata"
+    },
+    {
+      "id": "mahabharata_q2",
+      "text": "ధర్మో రక్షతి రక్షితః",
+      "godName": "Krishna",
+      "source": "Mahabharata"
+    },
+    {
+      "id": "mahabharata_q3",
+      "text": "ఆత్మానం సతతం రక్షేత్ స్వధర్మమనుపాలయన్",
+      "godName": "Krishna",
+      "source": "Mahabharata"
+    },
+    {
+      "id": "mahabharata_q4",
+      "text": "యతో ధర్మః తతో జయః",
+      "godName": "Krishna",
+      "source": "Mahabharata"
+    },
+    {
+      "id": "mahabharata_q5",
+      "text": "అశ్వత్థామా హతః ఇతి నరో వా కుంజరో వా",
+      "godName": "Krishna",
+      "source": "Mahabharata"
+    }
+  ],
+  "quotes_puranas": [
+    {
+      "id": "vishnu_q1",
+      "text": "శాంతాకారం భుజగశయనం పద్మనాభం సురేశం",
+      "godName": "Vishnu",
+      "source": "Vishnu Sahasranama"
+    },
+    {
+      "id": "shiva_q7",
+      "text": "కర్పూర గౌరం కరుణావతారం",
+      "godName": "Shiva",
+      "source": "Shiva Stotram"
+    },
+    {
+      "id": "durga_q1",
+      "text": "సర్వమంగళ మాంగల్యే శివే సర్వార్థ సాధికే",
+      "godName": "Durga",
+      "source": "Devi Mahatmya"
+    },
+    {
+      "id": "durga_q2",
+      "text": "యా దేవీ సర్వభూతేషు శక్తి రూపేణ సంస్థితా",
+      "godName": "Durga",
+      "source": "Devi Mahatmya"
+    },
+    {
+      "id": "durga_q3",
+      "text": "జయంతి మంగళ కాళీ భద్రకాళీ కపాలినీ",
+      "godName": "Durga",
+      "source": "Devi Mahatmya"
+    },
+    {
+      "id": "lakshmi_q5",
+      "text": "నమస్తేస్తు మహామాయే శ్రీపీఠే సురపూజితే",
+      "godName": "Lakshmi",
+      "source": "Lakshmi Stotram"
+    },
+    {
+      "id": "saraswati_q1",
+      "text": "సరస్వతీ నమస్తుభ్యం వరదే కామరూపిణీ",
+      "godName": "Saraswati",
+      "source": "Saraswati Stotram"
+    },
+    {
+      "id": "saraswati_q2",
+      "text": "విద్యారంభం కరిష్యామి సిద్ధిర్భవతు మే సదా",
+      "godName": "Saraswati",
+      "source": "Saraswati Stotram"
+    }
+  ],
+  "quotes_modern_devotional": [
+    {
+      "id": "rama_q8",
+      "text": "శ్రీరామ జయరామ జయజయరామ",
+      "godName": "Rama"
+    },
+    {
+      "id": "krishna_q7",
+      "text": "హరే రామ హరే రామ రామరామ హరే హరే",
+      "godName": "Krishna"
+    },
+    {
+      "id": "shiva_q8",
+      "text": "ఓం త్రయంబకం యజామహే సుగంధిం పుష్టివర్ధనం",
+      "godName": "Shiva",
+      "source": "Mahamrityunjaya Mantra"
+    },
+    {
+      "id": "ganesha_q6",
+      "text": "వక్రతుండ మహాకాయ సూర్యకోటి సమప్రభ",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "ganesha_q7",
+      "text": "శుక్లాంబరధరం విష్ణుం శశివర్ణం చతుర్భుజం",
+      "godName": "Ganesha"
+    },
+    {
+      "id": "murugan_q5",
+      "text": "ఓం షణ్ముఖాయే నమః",
+      "godName": "Murugan"
+    },
+    {
+      "id": "ayyappa_q1",
+      "text": "స్వామియే శరణమయ్యప్ప",
+      "godName": "Ayyappa"
+    },
+    {
+      "id": "venkateswara_q3",
+      "text": "ఓం నమో వెంకటేశాయ",
+      "godName": "Venkateshwara"
+    },
+    {
+      "id": "narasimha_q8",
+      "text": "ఓం ఉగ్రం వీరం మహావిష్ణుం జ్వలంతం సర్వతోముఖం",
+      "godName": "Narasimha"
+    }
+  ]
+}
   ],
   "festivals": [
     {
