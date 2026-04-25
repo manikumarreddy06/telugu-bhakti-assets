@@ -314,7 +314,7 @@
       "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ai6ncpzky3org258fah9"
     }
   ],
-  {
+  
   "quotes_bhagavad_gita": [
     {
       "id": "gita_q1",
@@ -588,9 +588,8 @@
       "text": "ఓం ఉగ్రం వీరం మహావిష్ణుం జ్వలంతం సర్వతోముఖం",
       "godName": "Narasimha"
     }
-  ]
-}
   ],
+  
   "festivals": [
     {
       "mmdd": "08-26",
