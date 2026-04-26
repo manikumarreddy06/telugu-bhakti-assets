@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "images": [
     {
       "id": "krishna1",
@@ -330,6 +330,54 @@
       "godName": "Rama",
       "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/tsjxyb6nmxjnec1jteab",
       "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/tsjxyb6nmxjnec1jteab"
+    },
+    {
+      "id": "twovmfnwjm9uwsizvzgu",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/twovmfnwjm9uwsizvzgu",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/twovmfnwjm9uwsizvzgu"
+    },
+    {
+      "id": "qph9rcmoswjbg9oofy2o",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/qph9rcmoswjbg9oofy2o",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/qph9rcmoswjbg9oofy2o"
+    },
+    {
+      "id": "ndoukv57xa68w8r96qim",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/ndoukv57xa68w8r96qim",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/ndoukv57xa68w8r96qim"
+    },
+    {
+      "id": "z5oqrmidupytitxcxqan",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/z5oqrmidupytitxcxqan",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/z5oqrmidupytitxcxqan"
+    },
+    {
+      "id": "bon6ru5shnezv5g9wfig",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/bon6ru5shnezv5g9wfig",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/bon6ru5shnezv5g9wfig"
+    },
+    {
+      "id": "llbmh3wq8ij5vwgeaibf",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/llbmh3wq8ij5vwgeaibf",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/llbmh3wq8ij5vwgeaibf"
+    },
+    {
+      "id": "blxbmjlo519bzgsjrawl",
+      "godName": "Krishna",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/blxbmjlo519bzgsjrawl",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/blxbmjlo519bzgsjrawl"
+    },
+    {
+      "id": "df7uflodcragmc3urcon",
+      "godName": "Rama",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/df7uflodcragmc3urcon",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/df7uflodcragmc3urcon"
     }
   ],
   "quotes_bhagavad_gita": [
