@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "images": [
     {
       "id": "krishna1",
@@ -324,6 +324,12 @@
       "godName": "Rama",
       "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/kvpcbbnm3axgmwguloak",
       "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/kvpcbbnm3axgmwguloak"
+    },
+    {
+      "id": "tsjxyb6nmxjnec1jteab",
+      "godName": "Rama",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/tsjxyb6nmxjnec1jteab",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/tsjxyb6nmxjnec1jteab"
     }
   ],
   "quotes_bhagavad_gita": [
