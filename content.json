@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "images": [
     {
       "id": "krishna1",
@@ -378,6 +378,42 @@
       "godName": "Rama",
       "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/df7uflodcragmc3urcon",
       "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/df7uflodcragmc3urcon"
+    },
+    {
+      "id": "cjlm3jkxdwczya61fjee",
+      "godName": "Hanuman",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/cjlm3jkxdwczya61fjee",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/cjlm3jkxdwczya61fjee"
+    },
+    {
+      "id": "uf0u4cg2bjd9bjjlu27x",
+      "godName": "Hanuman",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/uf0u4cg2bjd9bjjlu27x",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/uf0u4cg2bjd9bjjlu27x"
+    },
+    {
+      "id": "x3pvmcnvgxqfgsx6urrk",
+      "godName": "Hanuman",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/x3pvmcnvgxqfgsx6urrk",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/x3pvmcnvgxqfgsx6urrk"
+    },
+    {
+      "id": "xahz4er1dt5vr6frdjm2",
+      "godName": "Rama",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/xahz4er1dt5vr6frdjm2",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/xahz4er1dt5vr6frdjm2"
+    },
+    {
+      "id": "c0bifffq6thuyzrs9mqg",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/c0bifffq6thuyzrs9mqg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/c0bifffq6thuyzrs9mqg"
+    },
+    {
+      "id": "emw0gislucdxxziqdpfg",
+      "godName": "Shiva",
+      "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/emw0gislucdxxziqdpfg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/emw0gislucdxxziqdpfg"
     }
   ],
   "quotes_bhagavad_gita": [
