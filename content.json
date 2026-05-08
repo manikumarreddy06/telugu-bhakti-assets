@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "images": [
     {
       "id": "krishna1",
@@ -414,6 +414,13 @@
       "godName": "Shiva",
       "url": "https://res.cloudinary.com/dttjp9djs/image/upload/f_webp,q_70,w_400/telugu-bhakti/emw0gislucdxxziqdpfg",
       "thumbUrl": "https://res.cloudinary.com/dttjp9djs/image/upload/e_blur:2000,w_32,h_32,f_auto/telugu-bhakti/emw0gislucdxxziqdpfg"
+    },
+    {
+      "id": "x23ikahxd4cwiugwj33w",
+      "godName": "Venkateshwara",
+      "url": "https://res.cloudinary.com/dttjp9djs/video/upload/so_0,f_webp,w_400/telugu-bhakti-videos/x23ikahxd4cwiugwj33w.jpg",
+      "thumbUrl": "https://res.cloudinary.com/dttjp9djs/video/upload/so_0,e_blur:2000,w_32,h_32,f_webp/telugu-bhakti-videos/x23ikahxd4cwiugwj33w.jpg",
+      "videoUrl": "https://res.cloudinary.com/dttjp9djs/video/upload/q_auto,f_mp4/telugu-bhakti-videos/x23ikahxd4cwiugwj33w.mp4"
     }
   ],
   "quotes_bhagavad_gita": [
